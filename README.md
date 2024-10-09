@@ -1,3 +1,5 @@
+"Aomei partition assistant I think has the ability to change the guid of usb drives. Not sure if it would work on msata adapter"
+msata usb adapter guid
 # unRAID bzoverlay
 
 ## Big fat disclaimer
